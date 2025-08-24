@@ -1,0 +1,61 @@
+//此接口列表为互联网收集，不保证内容的真实性和可靠性。自用请勿宣传。
+{
+    "urls": [
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+        },               
+       {
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "小米线路"
+        },               
+       {
+            "url": "http://ok321.top/tv",
+            "name": "ok321线路"
+        },                  
+       {
+            "url": "https://毒盒.com/tv",
+            "name": "毒盒"
+        },                  
+       {
+            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
+            "name": "道长线路"
+        },           
+       {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "放牛线路"
+        },   
+       {
+            "url": "http://影视仓.com/",
+            "name": "影视仓"
+        },  
+       {
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/umbei/tvbox/main/m.json",
+            "name": "umbei"
+        },                                                                   
+        {
+            "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "name": "老刘CC"
+        },                                                     
+        {
+            "url": "http://k.xzwl.top/祥子影视/main/xzys2024.json",
+            "name": "祥子影视"
+        },
+        {
+            "url": "https://tv.菜妮丝.top",
+            "name": "菜妮丝线路"
+        },
+        {
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "南风线路"
+        },
+        {
+            "url": "https://xn--yhhy-rp5imh.v.nxog.top/api1.php?id=3",
+            "name": "欧歌线路"
+        }
+    ]
+}
